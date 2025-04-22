@@ -1,7 +1,7 @@
 
 # 📈 Options Pricing, Greeks Calculator & Monte Carlo Simulation
 
-## ✅ **Project Overview**
+##  **Project Overview**
 This project implements:
 - Black-Scholes Model for European Call & Put options pricing
 - Calculation of **Greeks** (Delta, Gamma, Vega, Theta, Rho)
@@ -13,7 +13,7 @@ Designed as a **Quant Finance Project** for deep understanding of options and ri
 
 ---
 
-## 🛠 **Technologies Used**
+##  **Technologies Used**
 - Python 3
 - NumPy
 - SciPy
@@ -22,7 +22,7 @@ Designed as a **Quant Finance Project** for deep understanding of options and ri
 
 ---
 
-## 📂 **Project Structure**
+##  **Project Structure**
 ```
 Options-Pricing-Greeks/
 ├── bs_model.py                  # Black-Scholes pricing functions
@@ -41,7 +41,7 @@ Options-Pricing-Greeks/
 
 ---
 
-## ✅ **How to Run the Project**
+##  **How to Run the Project**
 1. Install dependencies:
 ```bash
 pip install numpy scipy matplotlib
@@ -77,13 +77,13 @@ python monte_carlo.py
 
 ---
 
-## 🖼 **Sample Greeks Plots**
+## **Sample Greeks Plots**
 ![Delta Plot](plots/delta_plot.png)
 *(Add actual plot images if uploading to GitHub)*
 
 ---
 
-## 🔥 **Key Learnings**
+##  **Key Learnings**
 - Options Pricing using Black-Scholes Model
 - Importance of Greeks in risk measurement
 - Monte Carlo simulation for complex derivative pricing
@@ -92,15 +92,15 @@ python monte_carlo.py
 ---
 
 ## 📈 **Next Module (Upcoming):**
-✅ Portfolio Optimization & Efficient Frontier
+ Portfolio Optimization & Efficient Frontier
 
 ---
 
-## ✨ **Author**
+##  **Author**
 Niraj Patil — Quant Finance & Data Science Enthusiast
 
 ---
 
-## ⭐ **License**
+##  **License**
 Open-source, for learning and portfolio building.
 ```
